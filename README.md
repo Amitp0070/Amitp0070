@@ -5,7 +5,9 @@ Web Developer and Design
 ------------------------
 ✨
 Hi! I'm an enthusiastic learner who embraces all facets of life with a positive outlook. I possess a keen curiosity, always eager to expand my knowledge base. My aspiration is to attain a position of respect and expertise through continuous learning. Proficient in programming languages like HTML, CSS, JavaScript, Django frameworks, and SQL, I have a strong foundation in web development. I'm thrilled to utilize my IT passion to contribute to business accomplishments while perpetually advancing as a professional.
+
 Solid knowledge of Software Development Life Cycle (SDLC), Python . 
+
 Solid knowledge of Object-Oriented Programming (OOPs) concept .
 
 \\
