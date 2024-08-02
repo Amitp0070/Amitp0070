@@ -10,7 +10,6 @@ Solid knowledge of Software Development Life Cycle (SDLC), Python .
 
 Solid knowledge of Object-Oriented Programming (OOPs) concept .
 
-\\
 
 * 🌍  I'm based in Lucknow
 * ✉️  You can contact me at [amit7081483564@gmail.com](mailto:amit7081483564@gmail.com)
