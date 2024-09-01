@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amit Pathak
 ===================================================================================================================================
 
-Web Developer and Design
+Web Developer and Designer
 ------------------------
 ✨
 Hi! I'm an enthusiastic learner who embraces all facets of life with a positive outlook. I possess a keen curiosity, always eager to expand my knowledge base. My aspiration is to attain a position of respect and expertise through continuous learning. Proficient in programming languages like HTML, CSS, JavaScript, Django frameworks, and SQL, I have a strong foundation in web development. I'm thrilled to utilize my IT passion to contribute to business accomplishments while perpetually advancing as a professional.
