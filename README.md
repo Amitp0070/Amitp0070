@@ -48,5 +48,5 @@ src="https://img.shields.io/github/followers/Amitp0070?logo=github&style=for-the
 <div width="100%" align="center"><a href="https://github.com/Amitp0070/Restaurants-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amitp0070&repo=Restaurants-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/Amitp0070/CookingStories" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amitp0070&repo=Restaurants-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Amitp0070/CookingStories" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amitp0070&repo=CookingStories&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
