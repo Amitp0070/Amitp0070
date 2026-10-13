@@ -143,29 +143,42 @@ The following projects represent systems I've worked on professionally. Their so
 | Backend Developer | TechnoBren Infotech Pvt. Ltd. | March 2025 – June 2026 |
 | Software Developer | Digipodium | June 2024 – September 2024 |
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/Amitp0070">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amitp0070&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub overview statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amitp0070&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Amit Pathak's GitHub statistics" />
 </a>
 <a href="https://github.com/Amitp0070">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitp0070&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used repository languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitp0070&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages" />
 </a>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitp0070&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
-## 🤝 Let's Connect
-
-- **GitHub:** [Amitp0070](https://github.com/Amitp0070)
-- **LinkedIn:** [Amit Pathak](https://www.linkedin.com/in/amit-pathak-558971277)
-- **Email:** [amitpathak00700@gmail.com](mailto:amitpathak00700@gmail.com)
-
 ---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-*Building dependable backend systems and practical AI-powered applications.*
+<a href="https://www.linkedin.com/in/amit-pathak-558971277">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:amitpathak00700@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Amitp0070">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Open to building impactful backend systems and AI-powered applications.**
 
 </div>
