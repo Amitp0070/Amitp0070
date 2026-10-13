@@ -253,36 +253,74 @@ Veer Bahadur Singh Purvanchal University
 
 ---
 
-## 📊 GitHub Activity
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/Amitp0070">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amitp0070&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amitp0070&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Amit Pathak's GitHub Stats"/>
 </a>
 <a href="https://github.com/Amitp0070">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitp0070&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used repository languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitp0070&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Amitp0070">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitp0070&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitp0070&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 </a>
+
+</div>
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/View-My_GitHub_Contributions-181717?style=for-the-badge&logo=github)](https://github.com/Amitp0070?tab=overview&from=2026-01-01&to=2026-12-31)
+
+**Explore my repositories, recent commits, and contribution history.**
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Featured Repositories
 
-I'm interested in building dependable backend systems, enterprise applications, and AI-powered products.
+<div align="center">
 
-If you're working on backend engineering, API development, AI automation, or LLM-powered applications, feel free to connect.
+<a href="https://github.com/Amitp0070/CookingStories">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amitp0070&repo=CookingStories&theme=transparent&hide_border=true" alt="CookingStories repository"/>
+</a>
+<a href="https://github.com/Amitp0070/Restaurants-Website">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amitp0070&repo=Restaurants-Website&theme=transparent&hide_border=true" alt="Restaurants Website repository"/>
+</a>
+
+</div>
 
 <p align="center">
+  <a href="https://github.com/Amitp0070?tab=repositories">
+    View All Repositories →
+  </a>
+</p>
+
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to backend development, full-stack engineering, and AI engineering opportunities.
+
+If you're building backend systems, enterprise applications, or LLM-powered products, let's connect.
+
+<p>
   <a href="https://github.com/Amitp0070">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Amitp0070-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/amit-pathak-558971277">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -292,8 +330,6 @@ If you're working on backend engineering, API development, AI automation, or LLM
   </a>
 </p>
 
-<div align="center">
-
-*Building reliable software, one practical solution at a time.*
+**Backend Engineering · AI Agents · Enterprise Applications**
 
 </div>
