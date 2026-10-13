@@ -94,29 +94,27 @@ A website project focused on restaurant information and presentation.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity
 
-### GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitp0070&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Amitp0070)
-
-### Contribution Streak
+### 🔥 GitHub Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amitp0070&theme=tokyonight&hide_border=true)](https://github.com/Amitp0070)
 
-### Most Used Languages
+### 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitp0070&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/Amitp0070)
+
+### 💻 Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitp0070&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Amitp0070?tab=repositories)
 
----
+### 📅 Daily Contribution Activity
 
-## 🤝 Connect With Me
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amitp0070&theme=tokyo-night&hide_border=true)](https://github.com/Amitp0070)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Amitp0070-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitp0070)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-pathak-558971277)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit7081483564@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ap_pathak007/)
+### 🟩 Contribution Calendar
 
+[![GitHub Contribution Grid](https://ghchart.rshah.org/0891b2/Amitp0070)](https://github.com/Amitp0070)
 ---
 
 ⭐ If you find my projects useful, consider giving them a star!
