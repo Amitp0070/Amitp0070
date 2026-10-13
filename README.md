@@ -275,16 +275,20 @@ Veer Bahadur Singh Purvanchal University
 
 </div>
 
+---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/View-My_GitHub_Contributions-181717?style=for-the-badge&logo=github)](https://github.com/Amitp0070?tab=overview&from=2026-01-01&to=2026-12-31)
-
-**Explore my repositories, recent commits, and contribution history.**
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amitp0070/Amitp0070/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amitp0070/Amitp0070/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Amitp0070/Amitp0070/output/github-snake.svg" width="100%">
+  </picture>
 </div>
+
+---
+
 
 ---
 
